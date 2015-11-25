@@ -1,5 +1,6 @@
 inserting line -1
 inserting line 0
 insert line 1
+inserting line 1.5
 insert line 2
 insert line ccc
