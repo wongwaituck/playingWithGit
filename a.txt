@@ -1,3 +1,4 @@
+inserting line 0
 insert line 1
 insert line 2
 insert line ccc
